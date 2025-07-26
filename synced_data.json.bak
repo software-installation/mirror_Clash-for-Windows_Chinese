@@ -403,6 +403,10 @@
     "165146862": {
       "tag_name": "CFW-V0.20.39_OPT-1",
       "fully_synced_at": "2025-07-26 11:05:37.619412"
+    },
+    "220624063": {
+      "tag_name": "0.20.39.2",
+      "fully_synced_at": "2025-07-26 11:06:24.891813"
     }
   },
   "assets": {
@@ -2943,6 +2947,44 @@
         "updated_at": "2025-07-26T11:06:22+00:00",
         "synced_at": "2025-07-26 11:06:24.865913"
       }
+    },
+    "226576503": {
+      "Clash.for.Windows-0.20.39-Opt.3-linux-arm64.tar.gz_132132012": {
+        "name": "Clash.for.Windows-0.20.39-Opt.3-linux-arm64.tar.gz",
+        "size": 132132012,
+        "updated_at": "2025-07-26T11:07:05+00:00",
+        "synced_at": "2025-07-26 11:07:05.735897"
+      },
+      "Clash.for.Windows-0.20.39-Opt.3-linux-x64.tar.gz_128382279": {
+        "name": "Clash.for.Windows-0.20.39-Opt.3-linux-x64.tar.gz",
+        "size": 128382279,
+        "updated_at": "2025-07-26T11:07:10+00:00",
+        "synced_at": "2025-07-26 11:07:10.927686"
+      },
+      "Clash.for.Windows-0.20.39-Opt.3-win.7z_93615332": {
+        "name": "Clash.for.Windows-0.20.39-Opt.3-win.7z",
+        "size": 93615332,
+        "updated_at": "2025-07-26T11:07:14+00:00",
+        "synced_at": "2025-07-26 11:07:14.503921"
+      },
+      "Clash.for.Windows-0.20.39-Opt.3-win32-arm64.7z_88628817": {
+        "name": "Clash.for.Windows-0.20.39-Opt.3-win32-arm64.7z",
+        "size": 88628817,
+        "updated_at": "2025-07-26T11:07:18+00:00",
+        "synced_at": "2025-07-26 11:07:18.137180"
+      },
+      "Clash.for.Windows-0.20.39-Opt.3-win32-ia32.7z_88498898": {
+        "name": "Clash.for.Windows-0.20.39-Opt.3-win32-ia32.7z",
+        "size": 88498898,
+        "updated_at": "2025-07-26T11:07:21+00:00",
+        "synced_at": "2025-07-26 11:07:21.863886"
+      },
+      "Clash.for.Windows.Setup.0.20.39_Opt-3.exe_107178760": {
+        "name": "Clash.for.Windows.Setup.0.20.39_Opt-3.exe",
+        "size": 107178760,
+        "updated_at": "2025-07-26T11:07:25+00:00",
+        "synced_at": "2025-07-26 11:07:26.125295"
+      }
     }
   },
   "source_codes": {
@@ -3964,6 +4006,16 @@
       "SourceCode_0.20.39.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 11:05:55.727236"
+      }
+    },
+    "0.20.39.3": {
+      "SourceCode_0.20.39.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:06:45.943102"
+      },
+      "SourceCode_0.20.39.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:07:00.367467"
       }
     }
   }
