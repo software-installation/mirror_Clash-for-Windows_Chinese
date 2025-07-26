@@ -111,6 +111,10 @@
     "42946997": {
       "tag_name": "CFW-V0.15.6_CN-V7",
       "fully_synced_at": "2025-07-26 10:38:56.859567"
+    },
+    "42712154": {
+      "tag_name": "CFW-V0.15.5_CN-V6",
+      "fully_synced_at": "2025-07-26 10:39:11.736928"
     }
   },
   "assets": {
@@ -759,6 +763,14 @@
         "updated_at": "2025-07-26T10:39:11+00:00",
         "synced_at": "2025-07-26 10:39:11.712264"
       }
+    },
+    "42043397": {
+      "app.asar_122811240": {
+        "name": "app.asar",
+        "size": 122811240,
+        "updated_at": "2025-07-26T10:39:26+00:00",
+        "synced_at": "2025-07-26 10:39:27.090078"
+      }
     }
   },
   "source_codes": {
@@ -1050,6 +1062,16 @@
       "SourceCode_CFW-V0.15.5_CN-V6.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:39:05.589204"
+      }
+    },
+    "CFW-V0.15.4_CN-V4": {
+      "SourceCode_CFW-V0.15.4_CN-V4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:39:17.945960"
+      },
+      "SourceCode_CFW-V0.15.4_CN-V4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:39:21.316988"
       }
     }
   }
