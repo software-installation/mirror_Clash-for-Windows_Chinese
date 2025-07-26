@@ -275,6 +275,10 @@
     "84792369": {
       "tag_name": "CFW-V0.20.10_CN",
       "fully_synced_at": "2025-07-26 10:53:19.753870"
+    },
+    "86292926": {
+      "tag_name": "CFW-V0.20.11_CN",
+      "fully_synced_at": "2025-07-26 10:53:41.514838"
     }
   },
   "assets": {
@@ -1935,6 +1939,32 @@
         "updated_at": "2025-07-26T10:53:41+00:00",
         "synced_at": "2025-07-26 10:53:41.496106"
       }
+    },
+    "87586704": {
+      "app.7z_7248244": {
+        "name": "app.7z",
+        "size": 7248244,
+        "updated_at": "2025-07-26T10:53:52+00:00",
+        "synced_at": "2025-07-26 10:53:52.802104"
+      },
+      "app.asar_30885197": {
+        "name": "app.asar",
+        "size": 30885197,
+        "updated_at": "2025-07-26T10:53:55+00:00",
+        "synced_at": "2025-07-26 10:53:55.147838"
+      },
+      "Clash.for.Windows-0.20.12-win.7z_71616151": {
+        "name": "Clash.for.Windows-0.20.12-win.7z",
+        "size": 71616151,
+        "updated_at": "2025-07-26T10:53:58+00:00",
+        "synced_at": "2025-07-26 10:53:58.528293"
+      },
+      "Clash.for.Windows.Setup.0.20.12.exe_82774927": {
+        "name": "Clash.for.Windows.Setup.0.20.12.exe",
+        "size": 82774927,
+        "updated_at": "2025-07-26T10:54:02+00:00",
+        "synced_at": "2025-07-26 10:54:02.830529"
+      }
     }
   },
   "source_codes": {
@@ -2636,6 +2666,16 @@
       "SourceCode_CFW-V0.20.11_CN.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:53:29.028697"
+      }
+    },
+    "CFW-V0.20.12_CN": {
+      "SourceCode_CFW-V0.20.12_CN.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:53:48.874009"
+      },
+      "SourceCode_CFW-V0.20.12_CN.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:53:50.998743"
       }
     }
   }
