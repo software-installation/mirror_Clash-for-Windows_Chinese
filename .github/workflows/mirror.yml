@@ -1,5 +1,5 @@
 # .github/workflows/mirror.yml
-name: 同步
+name: 同步Z-Siqi/Clash-for-Windows_Chinese
 
 on:
   schedule:
