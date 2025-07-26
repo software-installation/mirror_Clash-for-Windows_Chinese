@@ -391,6 +391,10 @@
     "125940879": {
       "tag_name": "CFW-V0.20.39_CN",
       "fully_synced_at": "2025-07-26 11:03:57.819832"
+    },
+    "127810059": {
+      "tag_name": "CFW",
+      "fully_synced_at": "2025-07-26 11:04:21.872436"
     }
   },
   "assets": {
@@ -2805,6 +2809,50 @@
         "updated_at": "2025-07-26T11:04:21+00:00",
         "synced_at": "2025-07-26 11:04:21.852923"
       }
+    },
+    "127811180": {
+      "cfa-3.0.3-premium-arm64-v8a-release.apk_14261911": {
+        "name": "cfa-3.0.3-premium-arm64-v8a-release.apk",
+        "size": 14261911,
+        "updated_at": "2025-07-26T11:04:34+00:00",
+        "synced_at": "2025-07-26 11:04:34.263302"
+      },
+      "cfa-3.0.3-premium-armeabi-v7a-release.apk_14477471": {
+        "name": "cfa-3.0.3-premium-armeabi-v7a-release.apk",
+        "size": 14477471,
+        "updated_at": "2025-07-26T11:04:36+00:00",
+        "synced_at": "2025-07-26 11:04:36.375091"
+      },
+      "cfa-3.0.3-premium-universal-release.apk_52378234": {
+        "name": "cfa-3.0.3-premium-universal-release.apk",
+        "size": 52378234,
+        "updated_at": "2025-07-26T11:04:39+00:00",
+        "synced_at": "2025-07-26 11:04:39.165876"
+      },
+      "cfa-3.0.3-premium-x86-release.apk_15054319": {
+        "name": "cfa-3.0.3-premium-x86-release.apk",
+        "size": 15054319,
+        "updated_at": "2025-07-26T11:04:40+00:00",
+        "synced_at": "2025-07-26 11:04:41.043856"
+      },
+      "cfa-3.0.3-premium-x86_64-release.apk_14810193": {
+        "name": "cfa-3.0.3-premium-x86_64-release.apk",
+        "size": 14810193,
+        "updated_at": "2025-07-26T11:04:42+00:00",
+        "synced_at": "2025-07-26 11:04:42.930471"
+      },
+      "clash-multiplatform-linux-amd64-premium.zip_63102219": {
+        "name": "clash-multiplatform-linux-amd64-premium.zip",
+        "size": 63102219,
+        "updated_at": "2025-07-26T11:04:45+00:00",
+        "synced_at": "2025-07-26 11:04:45.879705"
+      },
+      "clash-multiplatform-windows-amd64-premium.zip_58195337": {
+        "name": "clash-multiplatform-windows-amd64-premium.zip",
+        "size": 58195337,
+        "updated_at": "2025-07-26T11:04:48+00:00",
+        "synced_at": "2025-07-26 11:04:48.829937"
+      }
     }
   },
   "source_codes": {
@@ -3796,6 +3844,16 @@
       "SourceCode_CFW.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 11:04:06.489410"
+      }
+    },
+    "CFA": {
+      "SourceCode_CFA.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:04:29.917568"
+      },
+      "SourceCode_CFA.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:04:32.015657"
       }
     }
   }
