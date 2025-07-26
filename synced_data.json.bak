@@ -399,6 +399,10 @@
     "127811180": {
       "tag_name": "CFA",
       "fully_synced_at": "2025-07-26 11:04:48.846070"
+    },
+    "165146862": {
+      "tag_name": "CFW-V0.20.39_OPT-1",
+      "fully_synced_at": "2025-07-26 11:05:37.619412"
     }
   },
   "assets": {
@@ -2901,6 +2905,44 @@
         "updated_at": "2025-07-26T11:05:37+00:00",
         "synced_at": "2025-07-26 11:05:37.595354"
       }
+    },
+    "220624063": {
+      "Clash.for.Windows-0.20.39-Opt.2-linux-arm64.tar.gz_133052075": {
+        "name": "Clash.for.Windows-0.20.39-Opt.2-linux-arm64.tar.gz",
+        "size": 133052075,
+        "updated_at": "2025-07-26T11:06:00+00:00",
+        "synced_at": "2025-07-26 11:06:00.503169"
+      },
+      "Clash.for.Windows-0.20.39-Opt.2-linux-x64.tar.gz_133761232": {
+        "name": "Clash.for.Windows-0.20.39-Opt.2-linux-x64.tar.gz",
+        "size": 133761232,
+        "updated_at": "2025-07-26T11:06:05+00:00",
+        "synced_at": "2025-07-26 11:06:06.029508"
+      },
+      "Clash.for.Windows-0.20.39-Opt.2-win.7z_96886587": {
+        "name": "Clash.for.Windows-0.20.39-Opt.2-win.7z",
+        "size": 96886587,
+        "updated_at": "2025-07-26T11:06:10+00:00",
+        "synced_at": "2025-07-26 11:06:10.259912"
+      },
+      "Clash.for.Windows-0.20.39-Opt.2-win32-arm64.7z_91283553": {
+        "name": "Clash.for.Windows-0.20.39-Opt.2-win32-arm64.7z",
+        "size": 91283553,
+        "updated_at": "2025-07-26T11:06:13+00:00",
+        "synced_at": "2025-07-26 11:06:13.747505"
+      },
+      "Clash.for.Windows-0.20.39-Opt.2-win32-ia32.7z_91688466": {
+        "name": "Clash.for.Windows-0.20.39-Opt.2-win32-ia32.7z",
+        "size": 91688466,
+        "updated_at": "2025-07-26T11:06:17+00:00",
+        "synced_at": "2025-07-26 11:06:18.111521"
+      },
+      "Clash.for.Windows.Setup.0.20.39_Opt-2.exe_110840487": {
+        "name": "Clash.for.Windows.Setup.0.20.39_Opt-2.exe",
+        "size": 110840487,
+        "updated_at": "2025-07-26T11:06:22+00:00",
+        "synced_at": "2025-07-26 11:06:24.865913"
+      }
     }
   },
   "source_codes": {
@@ -3912,6 +3954,16 @@
       "SourceCode_CFW-V0.20.39_OPT-1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 11:05:05.826073"
+      }
+    },
+    "0.20.39.2": {
+      "SourceCode_0.20.39.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:05:49.690139"
+      },
+      "SourceCode_0.20.39.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:05:55.727236"
       }
     }
   }
