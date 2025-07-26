@@ -1,0 +1,43 @@
+{
+  "releases": {},
+  "assets": {
+    "55933221": {
+      "app.7z_29500979": {
+        "name": "app.7z",
+        "size": 29500979,
+        "updated_at": "2025-07-26T10:27:39+00:00",
+        "synced_at": "2025-07-26 10:27:39.877529"
+      },
+      "app.asar_149362621": {
+        "name": "app.asar",
+        "size": 149362621,
+        "updated_at": "2025-07-26T10:27:46+00:00",
+        "synced_at": "2025-07-26 10:27:46.933065"
+      },
+      "Clash.for.Windows-0.19.3-win.7z_89904925": {
+        "name": "Clash.for.Windows-0.19.3-win.7z",
+        "size": 89904925,
+        "updated_at": "2025-07-26T10:27:51+00:00",
+        "synced_at": "2025-07-26 10:27:51.852488"
+      },
+      "Clash.for.Windows.Setup.0.19.3.exe_111543726": {
+        "name": "Clash.for.Windows.Setup.0.19.3.exe",
+        "size": 111543726,
+        "updated_at": "2025-07-26T10:27:57+00:00",
+        "synced_at": "2025-07-26 10:27:57.409190"
+      }
+    }
+  },
+  "source_codes": {
+    "CFW-V0.19.3_CN": {
+      "SourceCode_CFW-V0.19.3_CN.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:27:35.149205"
+      },
+      "SourceCode_CFW-V0.19.3_CN.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:27:37.271910"
+      }
+    }
+  }
+}
