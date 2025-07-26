@@ -395,6 +395,10 @@
     "127810059": {
       "tag_name": "CFW",
       "fully_synced_at": "2025-07-26 11:04:21.872436"
+    },
+    "127811180": {
+      "tag_name": "CFA",
+      "fully_synced_at": "2025-07-26 11:04:48.846070"
     }
   },
   "assets": {
@@ -2853,6 +2857,50 @@
         "updated_at": "2025-07-26T11:04:48+00:00",
         "synced_at": "2025-07-26 11:04:48.829937"
       }
+    },
+    "165146862": {
+      "Clash.for.Windows-0.20.39-Opt.1-linux-arm64.tar.gz_124182514": {
+        "name": "Clash.for.Windows-0.20.39-Opt.1-linux-arm64.tar.gz",
+        "size": 124182514,
+        "updated_at": "2025-07-26T11:05:11+00:00",
+        "synced_at": "2025-07-26 11:05:11.501510"
+      },
+      "Clash.for.Windows-0.20.39-Opt.1-linux-x64.tar.gz_124944596": {
+        "name": "Clash.for.Windows-0.20.39-Opt.1-linux-x64.tar.gz",
+        "size": 124944596,
+        "updated_at": "2025-07-26T11:05:17+00:00",
+        "synced_at": "2025-07-26 11:05:17.236211"
+      },
+      "Clash.for.Windows-0.20.39-Opt.1-win.7z_89242067": {
+        "name": "Clash.for.Windows-0.20.39-Opt.1-win.7z",
+        "size": 89242067,
+        "updated_at": "2025-07-26T11:05:20+00:00",
+        "synced_at": "2025-07-26 11:05:20.950483"
+      },
+      "Clash.for.Windows-0.20.39-Opt.1-win32-arm64.7z_85247626": {
+        "name": "Clash.for.Windows-0.20.39-Opt.1-win32-arm64.7z",
+        "size": 85247626,
+        "updated_at": "2025-07-26T11:05:24+00:00",
+        "synced_at": "2025-07-26 11:05:24.782292"
+      },
+      "Clash.for.Windows-0.20.39-Opt.1-win32-ia32.7z_84714833": {
+        "name": "Clash.for.Windows-0.20.39-Opt.1-win32-ia32.7z",
+        "size": 84714833,
+        "updated_at": "2025-07-26T11:05:28+00:00",
+        "synced_at": "2025-07-26 11:05:28.548066"
+      },
+      "Clash.for.Windows.Setup.0.20.39_Opt-1.exe_101361501": {
+        "name": "Clash.for.Windows.Setup.0.20.39_Opt-1.exe",
+        "size": 101361501,
+        "updated_at": "2025-07-26T11:05:32+00:00",
+        "synced_at": "2025-07-26 11:05:32.849733"
+      },
+      "update.0.20.39.1.exe_101361501": {
+        "name": "update.0.20.39.1.exe",
+        "size": 101361501,
+        "updated_at": "2025-07-26T11:05:37+00:00",
+        "synced_at": "2025-07-26 11:05:37.595354"
+      }
     }
   },
   "source_codes": {
@@ -3854,6 +3902,16 @@
       "SourceCode_CFA.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 11:04:32.015657"
+      }
+    },
+    "CFW-V0.20.39_OPT-1": {
+      "SourceCode_CFW-V0.20.39_OPT-1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:05:00.439497"
+      },
+      "SourceCode_CFW-V0.20.39_OPT-1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 11:05:05.826073"
       }
     }
   }
